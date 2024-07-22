@@ -1,0 +1,50 @@
+
+.g1{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+.grid1{
+    margin-left: 275px;
+    width: 275px;
+    height: 480px;
+    border-radius: 20px;
+}
+.grid2{
+    margin-top: 70px;
+    margin-left: 100px;
+    width: 275px;
+    height: 480px;
+    border-radius: 20px;
+}
+.grid3{
+    margin-top: 170px;
+    margin-left: 100px;
+    background-color: rgba(255, 255, 255, 0.427);
+    width: 275px;
+    height: 480px;
+    border-radius: 20px;
+}
+.sub1{
+    margin-top: 54px;
+    padding: 10px 20px;
+    border-radius: 30px;
+    background-color: blue;
+    color:white
+}
+.sub2{
+    margin-top: 49px;
+    padding: 10px 20px;
+    border-radius: 30px;
+    background-color: blue;
+    color:white
+}
+.sub3{
+    padding: 10px 20px;
+    border-radius: 30px;
+    background-color: blue;
+    color:white
+}
+.ver{
+    margin-left: 10px;
+}

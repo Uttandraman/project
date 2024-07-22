@@ -1,0 +1,59 @@
+/*.pay{
+    border-radius: 10px;
+    padding:10px 73px;
+    margin-bottom: 20px;
+    margin-left: 32px;
+}
+.pay2{
+    border-radius: 10px;
+    width: 60px;
+    padding:10px 20px;
+    margin-left: 32px;
+}
+.pay3{
+    border-radius: 10px;
+    margin-left: 113px;
+    width: 50px;
+    padding:10px 20px;
+}
+.pimg{
+    margin-top: 28px;
+    margin-bottom: 28px;
+    margin-left: 28px;
+}
+.pbut{
+    background-color: salmon;
+    border-radius: 20px;
+    margin-left: 90px;
+    margin-top: 32px;
+    margin-bottom: 20px;
+    padding: 10px 60px;
+    color: white;
+}*/
+.payment{
+    margin-top: 100px;
+    margin-left: 565px;
+    margin-right: 565px;
+    border-radius: 30px;
+}
+.master{
+    margin-left: 250px;
+    width:65px;
+    height:40px;
+}
+.cardnum{
+    padding:10px 40px;
+}
+.la1{
+    margin-left: 10px;
+    margin-top: 200px;
+}
+.name{
+    margin-top: 20px;
+    padding: 10px 20px;
+}
+.date{
+    width: 35px;
+    padding:10px 20px;
+    margin-left: 20px;
+}

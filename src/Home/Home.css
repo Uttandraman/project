@@ -1,0 +1,39 @@
+.home{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: rgb(55, 55, 60);
+    padding: 10px 20px;
+}
+.list{
+    float: right;
+
+}
+li a{
+    display: block;
+    padding: 14px 16px;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+}
+li a:hover{
+    background-color: #111;
+}
+.horror{
+    background-color: rgba(0, 0, 0, 0.674);
+}
+.img1:hover{
+    box-shadow: 5px 5px 5px white;
+}
+.h22{
+    margin-left: 510px;
+    margin-top: -65px;
+}
+.h11{
+    margin-left: 195px;
+}
+.h33{
+    margin-left: 810px;
+    margin-top: -65px;
+}
